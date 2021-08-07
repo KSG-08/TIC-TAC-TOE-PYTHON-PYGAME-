@@ -25,4 +25,4 @@ https://user-images.githubusercontent.com/52103954/128597239-38ed183b-9413-43ea-
 2) Use numpad to place symbol on grid
 3) *TIPS: the numbers on the numpad are marked on the grid to make the task easier...:)*
 4) After a win or a tie, the game will show a message
-5) Wait for a few seconds a the board will be clear
+5) Wait for a few seconds and the board will be clear
